@@ -1,5 +1,25 @@
 # Country Flag Emoji JSON
 
+Barosmun - I am forking this branch to add some additional images I will be creating for a work project. Hopefully if someone needs one of these additional flags, they can find this repo.
+
+## Additions:
+Flag of the Arab League:
+![Arab League](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/ARAB.svg)
+
+Flag of the Cherokee Nation:
+![Cherokee](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/CHR.svg)
+
+Flag of Catalonia (Senyera):
+![Senyera](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/SENYERA.svg)
+
+Flag of Catalonia (Estelada):
+![Estelada](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/ESTELADA.svg)
+
+Flag of Basque Country:
+![Basque](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/BASQUE.svg)
+
+
+
 [![Latest Version](https://badgen.net/npm/v/country-flag-emoji-json)](https://www.npmjs.com/package/country-flag-emoji-json)
 
 Country flag emojis in JSON format and SVG image.
