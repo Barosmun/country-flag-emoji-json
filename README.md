@@ -4,19 +4,19 @@ Barosmun - I am forking this branch to add some additional images I will be crea
 
 ## Additions:
 Flag of the Arab League:
-![Arab League](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/ARAB.svg)
+![Arab League](https://raw.githubusercontent.com/Barosmun/country-flag-emoji-json/main/new/ARAB.svg)
 
 Flag of the Cherokee Nation:
-![Cherokee](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/CHR.svg)
+![Cherokee](https://raw.githubusercontent.com/Barosmun/country-flag-emoji-json/main/new/CHR.svg)
 
 Flag of Catalonia (Senyera):
-![Senyera](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/SENYERA.svg)
+![Senyera](https://raw.githubusercontent.com/Barosmun/country-flag-emoji-json/main/new/SENYERA.svg)
 
 Flag of Catalonia (Estelada):
-![Estelada](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/ESTELADA.svg)
+![Estelada](https://raw.githubusercontent.com/Barosmun/country-flag-emoji-json/main/new/ESTELADA.svg)
 
 Flag of Basque Country:
-![Basque](https://github.com/Barosmun/country-flag-emoji-json/main/dist/images/BASQUE.svg)
+![Basque](https://raw.githubusercontent.com/Barosmun/country-flag-emoji-json/main/new/BASQUE.svg)
 
 
 
